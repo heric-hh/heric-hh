@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heric-hh&label=Profile%20views&color=0e75b6&style=flat" alt="heric-hh" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **KnoWord** *(proyecto final de ingeniería)*
+- 🔭 Actualmente estoy trabajando en **KnoWord**
 
 - 🌱 Actualmente estoy estudiando **SpringBoot, Go**
 
